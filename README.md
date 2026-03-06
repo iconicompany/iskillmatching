@@ -303,7 +303,7 @@ uv run -m iskillmatching.extract -i input.csv -o output.csv
 Можно попробовать [обучение собственной модели NER на основе NER-Web-App-TensorFlowJS](https://github.com/iconicompany/NER-Web-App-TensorFlowJS/pull/1)
 или настройку [prompt к LLM через DSPy](https://github.com/MarcusElwin/ner-dspy)
 
-1. Сравнение ралзичных вариантов NER: https://arxiv.org/pdf/2407.19816, модель из статьи https://huggingface.co/dondosss/rubert-finetuned-ner
+1. Сравнение различных вариантов NER: https://arxiv.org/pdf/2407.19816, модель из статьи https://huggingface.co/dondosss/rubert-finetuned-ner
 2. Модель NER на tensorflow https://github.com/mrstelmach/NER-Web-App-TensorFlowJS
 3. SentenceTransformer based on sentence-transformers/all-mpnet-base-v2: https://huggingface.co/TechWolf/JobBERT-v2
 4. SentenceTransformer based on sentence-transformers/all-MiniLM-L6-v2: https://huggingface.co/anass1209/resume-job-matcher-all-MiniLM-L6-v2
