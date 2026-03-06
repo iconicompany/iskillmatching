@@ -288,10 +288,10 @@ def normalize_batch(self, piped_skills_batch):
 uv run python -m spacy download en_core_web_lg
 
 # Запуск с внешним словарём навыков
-uv run -m iskillmatching.extract -i input.csv -o output.csv -s skills.csv -l 500
+uv run -m iskillmatching.extract -i data/jobs_requirements.csv -o data/jobs_requirements_ner.csv -s data/skills.csv -l 500
 
 # Запуск без словаря (навыки извлекаются из столбцов skills/stack)
-uv run -m iskillmatching.extract -i input.csv -o output.csv
+uv run -m iskillmatching.extract -i data/jobs_requirements.csv -o data/jobs_requirements_ner.csv
 ```
 
 Входной CSV должен содержать столбец `requirement_ru` с текстами на русском языке. Результаты записываются в столбцы `ner`, `spacy`, `combined`, `normalized`.

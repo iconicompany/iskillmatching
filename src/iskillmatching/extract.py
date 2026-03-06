@@ -30,7 +30,7 @@ def main():
     parser = argparse.ArgumentParser(description="Extract and normalize skills from CSV.")
     parser.add_argument("-i", "--input", default="data/jobs_requirements.csv", help="Input CSV file path")
     parser.add_argument("-o", "--output", default="data/jobs_requirements_ner.csv", help="Output CSV file path")
-    parser.add_argument("-s", "--skills", default="data/skills.csv", help="Skills dictionary CSV file path (optional)")
+    parser.add_argument("-s", "--skills", help="Skills dictionary CSV file path (optional)")
     parser.add_argument("-l", "--limit", type=int, default=100, help="Number of rows to process (default 100, -1 for no limit)")
     args = parser.parse_args()
 
