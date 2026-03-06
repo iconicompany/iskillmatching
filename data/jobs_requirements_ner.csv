@@ -1,0 +1,11 @@
+requirement_ru,stack,skills,ner,spacy,combined,normalized
+React JS 18+,,react js,react js 18,React,react|react js 18,React|React 18
+SASS,,sas,sass,SASS,sass,Sass
+i18next,,i18next,i18next,i18next,i18next,i18next
+Reduxjs + Reduxjs/toolkit,,reduxjs|reduxjs/toolkit,reduxjs|reduxjs / toolkit,Reduxjs/toolkit|toolkit,reduxjs|reduxjs toolkit|reduxjs/toolkit|toolkit,Toolkit|redux.js|reduxjs/toolkit
+"HTML/CSS: знание семантических элементов; опыт верстки страниц, совместимых с различными браузерами",,html|css,html / css :,HTML|HTML/CSS|CSS|знание,css|html|html css|html/css,CSS|HTML|HTML/CSS
+"Уверенное знание JavaScript: замыкания, асинхронное программирование (async/await | Promises), ES6+",,javascript|async/await|promises|es6+,javascript : замыкания|##ное программирование,знание|JavaScript|асинхронное программирование|программирование|async|async/await|await|Promises,async|async/await|await|javascript|javascript замыкания|promises|асинхронное программирование|ное программирование|программирование,Async|Await|JavaScript|JavaScript (чистый)|async/await|promises|Асинхронное программирование|Программирование
+Browser APIs,,browser apis,browser apis,Browser|APIs,apis|browser|browser apis,Browser Api|apis|browser
+Понимание REST API,,rest api,rest api,Понимание|REST|REST API|API,api|rest|rest api,API|REST|REST API
+Умение работы с WebSocket,,websocket,websocket,,websocket,WebSockets
+Опыт работы с Webpack или другими инструментами сборки,,webpack,webpack,Webpack,webpack,Webpack
