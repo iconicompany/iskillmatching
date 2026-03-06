@@ -1,0 +1,552 @@
+Experience O
+with O
+Git B-SKILL
+is O
+required O
+. O
+
+Python B-SKILL
+- O
+intermediate O
+level O
+. O
+
+The O
+candidate O
+should O
+know O
+Azure B-SKILL
+. O
+
+Strong O
+knowledge O
+of O
+GraphQL B-SKILL
+is O
+preferred O
+. O
+
+The O
+candidate O
+should O
+know O
+PostgreSQL B-SKILL
+. O
+
+Our O
+stack O
+includes O
+CI B-SKILL
+/ I-SKILL
+CD I-SKILL
+among O
+other O
+technologies O
+. O
+
+You O
+will O
+be O
+working O
+extensively O
+with O
+PostgreSQL B-SKILL
+. O
+
+You O
+will O
+be O
+working O
+extensively O
+with O
+CI B-SKILL
+/ I-SKILL
+CD I-SKILL
+. O
+
+Hands O
+- O
+on O
+JavaScript B-SKILL
+project O
+experience O
+preferred O
+. O
+
+Ability O
+to O
+work O
+with O
+Git B-SKILL
+in O
+a O
+production O
+environment O
+. O
+
+Ability O
+to O
+work O
+with O
+GraphQL B-SKILL
+in O
+a O
+production O
+environment O
+. O
+
+Must O
+have O
+solid O
+JavaScript B-SKILL
+skills O
+. O
+
+You O
+will O
+report O
+directly O
+to O
+the O
+engineering O
+manager O
+. O
+
+We O
+need O
+REST B-SKILL
+API I-SKILL
+expertise O
+on O
+the O
+team O
+. O
+
+Expert O
+- O
+level O
+Python B-SKILL
+knowledge O
+required O
+. O
+
+Hands O
+- O
+on O
+MongoDB B-SKILL
+project O
+experience O
+preferred O
+. O
+
+Strong O
+knowledge O
+of O
+PostgreSQL B-SKILL
+is O
+preferred O
+. O
+
+Ability O
+to O
+work O
+with O
+Redis B-SKILL
+in O
+a O
+production O
+environment O
+. O
+
+Ability O
+to O
+work O
+with O
+AWS B-SKILL
+in O
+a O
+production O
+environment O
+. O
+
+You O
+will O
+be O
+working O
+extensively O
+with O
+AWS B-SKILL
+. O
+
+CI B-SKILL
+/ I-SKILL
+CD I-SKILL
+- O
+intermediate O
+level O
+. O
+
+We O
+need O
+Kubernetes B-SKILL
+expertise O
+on O
+the O
+team O
+. O
+
+Expert O
+- O
+level O
+. B-SKILL
+Net I-SKILL
+knowledge O
+required O
+. O
+
+At O
+least O
+2 O
+years O
+of O
+JavaScript B-SKILL
+experience O
+. O
+
+PostgreSQL B-SKILL
+experience O
+is O
+a O
+significant O
+advantage O
+. O
+
+Looking O
+for O
+a O
+Node B-SKILL
+. I-SKILL
+js I-SKILL
+developer O
+. O
+
+We O
+offer O
+a O
+competitive O
+salary O
+and O
+great O
+benefits O
+. O
+
+At O
+least O
+2 O
+years O
+of O
+Kubernetes B-SKILL
+experience O
+. O
+
+We O
+need O
+. B-SKILL
+Net I-SKILL
+expertise O
+on O
+the O
+team O
+. O
+
+Must O
+have O
+solid O
+Node B-SKILL
+. I-SKILL
+js I-SKILL
+skills O
+. O
+
+We O
+need O
+GraphQL B-SKILL
+expertise O
+on O
+the O
+team O
+. O
+
+CI B-SKILL
+/ I-SKILL
+CD I-SKILL
+experience O
+is O
+a O
+significant O
+advantage O
+. O
+
+Our O
+stack O
+includes O
+JavaScript B-SKILL
+among O
+other O
+technologies O
+. O
+
+We O
+are O
+a O
+fast O
+- O
+growing O
+company O
+in O
+the O
+technology O
+sector O
+. O
+
+Demonstrated O
+experience O
+using O
+MongoDB B-SKILL
+. O
+
+Looking O
+for O
+a O
+Linux B-SKILL
+developer O
+. O
+
+We O
+value O
+creativity O
+, O
+collaboration O
+, O
+and O
+continuous O
+learning O
+. O
+
+Expert O
+- O
+level O
+Git B-SKILL
+knowledge O
+required O
+. O
+
+Background O
+in O
+Docker B-SKILL
+is O
+required O
+. O
+
+Proficiency O
+in O
+Linux B-SKILL
+is O
+a O
+must O
+. O
+
+Working O
+knowledge O
+of O
+AWS B-SKILL
+is O
+expected O
+. O
+
+Demonstrated O
+experience O
+using O
+. B-SKILL
+Net I-SKILL
+. O
+
+Working O
+knowledge O
+of O
+Azure B-SKILL
+is O
+expected O
+. O
+
+Demonstrated O
+experience O
+using O
+JavaScript B-SKILL
+. O
+
+Background O
+in O
+Kubernetes B-SKILL
+is O
+required O
+. O
+
+Looking O
+for O
+a O
+Spring B-SKILL
+Boot I-SKILL
+developer O
+. O
+
+Skills O
+: O
+Spring B-SKILL
+Boot I-SKILL
+. O
+
+Proficiency O
+in O
+Docker B-SKILL
+is O
+a O
+must O
+. O
+
+Must O
+have O
+solid O
+Spring B-SKILL
+Boot I-SKILL
+skills O
+. O
+
+Azure B-SKILL
+experience O
+is O
+a O
+significant O
+advantage O
+. O
+
+Familiarity O
+with O
+MongoDB B-SKILL
+is O
+a O
+plus O
+. O
+
+Please O
+send O
+your O
+resume O
+to O
+our O
+HR O
+department O
+. O
+
+Expert O
+- O
+level O
+REST B-SKILL
+API I-SKILL
+knowledge O
+required O
+. O
+
+Working O
+knowledge O
+of O
+Java B-SKILL
+is O
+expected O
+. O
+
+You O
+will O
+be O
+working O
+extensively O
+with O
+GraphQL B-SKILL
+. O
+
+Strong O
+knowledge O
+of O
+REST B-SKILL
+API I-SKILL
+is O
+preferred O
+. O
+
+We O
+need O
+TypeScript B-SKILL
+expertise O
+on O
+the O
+team O
+. O
+
+Demonstrated O
+experience O
+using O
+Kubernetes B-SKILL
+. O
+
+Our O
+stack O
+includes O
+Azure B-SKILL
+among O
+other O
+technologies O
+. O
+
+Proficiency O
+in O
+. B-SKILL
+Net I-SKILL
+is O
+a O
+must O
+. O
+
+Ability O
+to O
+work O
+with O
+. B-SKILL
+Net I-SKILL
+in O
+a O
+production O
+environment O
+. O
+
+Our O
+stack O
+includes O
+Docker B-SKILL
+among O
+other O
+technologies O
+. O
+
+Ability O
+to O
+work O
+with O
+CI B-SKILL
+/ I-SKILL
+CD I-SKILL
+in O
+a O
+production O
+environment O
+. O
+
