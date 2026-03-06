@@ -9,3 +9,93 @@ Browser APIs,,browser apis,browser apis,Browser|APIs,apis|browser|browser apis,B
 Понимание REST API,,rest api,rest api,Понимание|REST|REST API|API,api|rest|rest api,API|REST|REST API
 Умение работы с WebSocket,,websocket,websocket,,websocket,WebSockets
 Опыт работы с Webpack или другими инструментами сборки,,webpack,webpack,Webpack,webpack,Webpack
+Опыт работы с Canvas,,canvas,canvas,Canvas,canvas,Canvas
+Умение работы с git,,git,умение работы с git,git,git,Git
+Опыт работы с Typescript,,typescript,typescript,Typescript,typescript,TypeScript
+"Владение техниками тестирования кода (в том числе BDD, TDD)",,bdd|tdd,tdd|bdd,BDD|TDD,bdd|tdd,BDD|TDD
+Владение python (sanic / aiohttp),,python|sanic|aiohttp,владение,python|sanic|aiohttp,aiohttp|python|sanic,Python|Sanic|aiohttp
+docker,,docker,docker,docker,docker,Docker
+nginx,,nginx,nginx,nginx,nginx,Nginx
+"Опыт работы с системами нагрузочного тестирования (MF LR, JMeter, Locust, IBM RPT) от 2-х лет",,mf lr|jmeter|locust|ibm rpt,jmeter|locust|mf lr|ibm rpt,JMeter|Locust|IBM|-,ibm|ibm rpt|jmeter|locust|mf lr,IBM|JMeter|Locust
+"Знание методологий разработки ПО (Каскад, Итерационная, Инкрементная, Agile)",,agile,инкрементная|каскад|по|итерационная,Знание|Каскад|Agile,agile|инкрементная|итерационная|каскад|по,Agile|Каскад|ППО|аналитические инструменты|инновационная
+"Гибкие фреймворки Scrum, KanBan",,scrum|kanban,kanban|scrum,Scrum|KanBan,kanban|scrum,Kanban|Scrum
+Имеет навыки работы с ОС Windows и *nix,,windows|nix,ос windows|* nix,ОС Windows|*nix|nix,*nix|nix|ос windows,*nix|nix|ОС Windows
+Стандарты работы XML и веб-служб,,xml,стандарты работы xml и веб - служб,XML|-,xml|стандарты xml веб служб,XML
+Опыт работы с программами удалённого доступа по протоколам RDP/SSH/VNC,,rdp|ssh|vnc,rdp / ssh / vnc,RDP|SSH|VNC,rdp|rdp ssh vnc|ssh|vnc,SSH|VNC|rdp
+"Опыт работы с таск-трекерами и системами управления тестированием (Jira, HP ALM, TSM)",,jira|hp alm|tsm,jira|hp alm|tsm,-|Jira|HP|HP ALM|ALM,alm|hp|hp alm|jira|tsm,ALM|HP|HP ALM|Jira
+"Опыт работы с cистемами версионного контроля (Git, SVN)",,git|svn,svn|git,Git|SVN,git|svn,Git|SVN
+"Опыт работы с Oracle, PostgeSQL, MSSQL",,oracle|postgresql|ms sql,oracle|postgesql|mssql,Oracle,mssql|oracle|postgesql,Oracle|databasesql
+Практический опыт написания административных скриптов на встроенных в ОС языках BAT/BASH/PS/VBS/JS/PS,,bat|bash|ps|vbs|js,bat / bash / ps / vbs / js / ps,BAT|BASH|VBS,bash|bat|bat bash ps vbs js ps|vbs,Bash|VBS|bat
+Опыт написания сложных SQL запросов,,sql,опыт написания сложных sql запросов,SQL,sql|написания сложных sql запросов,SQL|Опыт проектирования SQL баз данных
+"React JS 18+, SASS, i18next, Reduxjs + Reduxjs/toolkit, опыт работы с сайд-эффектами (redux-thunk, redux-saga)",,react js,sass|react js,React|SASS|i18next|Reduxjs/toolkit|toolkit|-|redux|thunk|redux-saga|saga,i18next|react|react js|redux|redux-saga|reduxjs/toolkit|saga|sass|thunk|toolkit,React|Redux|Redux-Saga|Saga|Sass|Thunk|Toolkit|i18next|reduxjs/toolkit
+"HTML/CSS: знание семантических элементов; опыт верстки страниц, совместимых с различными браузерами",,sas,html / css :,HTML|HTML/CSS|CSS|знание,css|html|html css|html/css,CSS|HTML|HTML/CSS
+"Уверенное знание JavaScript: замыкания, асинхронное программирование (async/await | Promises), ES6+, Browser APIs",,i18next,javascript : замыкания|browser apis|##ное программирование,знание|JavaScript|асинхронное программирование|программирование|async|async/await|await|Promises|Browser|APIs,apis|async|async/await|await|browser|browser apis|javascript|javascript замыкания|promises|асинхронное программирование|ное программирование|программирование,Async|Await|Browser Api|JavaScript|JavaScript (чистый)|apis|async/await|browser|promises|Асинхронное программирование|Программирование
+Понимание REST API,,reduxjs|reduxjs/toolkit,rest api,Понимание|REST|REST API|API,api|rest|rest api,API|REST|REST API
+Умение работы с WebSocket,,redux-thunk|redux-saga,websocket,,websocket,WebSockets
+Опыт работы с Webpack или другими инструментами сборки,,html|css,webpack,Webpack,webpack,Webpack
+Опыт работы с Canvas,,javascript|async/await|promises|es6+|browser apis,canvas,Canvas,canvas,Canvas
+Опыт работы с картами,,rest api,опыт работы с картами,,картами,камера
+Опыт работы с видео,,websocket,опыт работы с видео,видео,видео,Видео
+Умение работы с git,,webpack,умение работы с git,git,git,Git
+Опыт работы с Typescript,,canvas,typescript,Typescript,typescript,TypeScript
+Знание РСБУ и МСФО,,рсбу|мсфо,мсфо|знание рсбу,Знание|РСБУ|МСФО,мсфо|рсбу,МСФО|рсбу
+Конфигурация УХ или БП Корп,,1с:управление холдингом|1с:бухгалтерия корп,конфигурация ух|бп корп,БП|Корп,бп|бп корп|конфигурация ух|корп,1С:БП КОРП|БП|Конфигурации|корп
+"Опыт работы не менее 5-ти лет в сфере ИT / консалтинге, а также с корпоративными продуктами 1С",,1с,1с,-|1С,1с,1С
+Опыт работы в качестве функционального архитектора или ведущего консультанта автоматизированных систем на платформе 1С от 3-х лет,,1с,1с,1С|-,1с,1С
+"Уверенные знания функциональных возможностей и опыт работы со следующими конфигурациями: 1С:Управление холдингом, 1С:Бухгалтеррия КОРП",,1с:управление холдингом|1с:бухгалтерия корп,1с : бухгалтеррия корп|1с : управление холдингом,1С|1С:Управление холдингом|Управление|КОРП,1с|1с бухгалтеррия корп|1с управление холдингом|1с:управление холдингом|корп|управление,1С|1С:Бухгалтерия КОРП|1С:Управление холдингом|корп|управление
+Портфолио проектов 1С с участием в роли не ниже ведущего аналитика,,1с,1с,1С|аналитика,1с|аналитика,1С|Аналитика
+Не менее одного проекта в портфолио на УХ/ERP с внедрением МСФО,,ух/erp|мсфо,ух / erp|мсфо,ERP|МСФО,erp|мсфо|ух erp,ERP|ERP:УХ|МСФО
+Уверенные предметные знания и опыт применения учета по МСФО,,мсфо,мсфо,МСФО,мсфо,МСФО
+"Отличные знания конфигурации УХ/ERP в части функционального направления МСФО. Знание функционала 1С, позволяющего формировать проводки по МСФО на основании данных РСБУ, транслировать данные из различных подсистем 1С в МСФО, вести учет в нескольких планах счетов (РСБУ, МСФО). Владение методикой построения параллельного учета в 1С, обеспечивающего возможность отражения операций по РСБУ и МСФО в рамках одной системы",,ух/erp|мсфо|1с|рсбу,рсбу|1с|мсфо,конфигурации|ERP|МСФО|Знание|1С|данных|РСБУ,1с|erp|данных|конфигурации|мсфо|рсбу,1С|ERP|Конфигурации|МСФО|данных|рсбу
+"Знание принципов построения конфигураций на платформе 1С, работы с объектами метаданных, механизмами и подходами к обеспечению функциональной интеграции",,1с,1с,Знание|1С,1с,1С
+Предметные знания и опыт внедрения функционального направления Консолидация,,консолидация,консолидация,опыт внедрения|Консолидация,внедрения|консолидация,Контроль внедрения|консолидация
+Android SDK (Core компоненты),,kotlin,android sdk ( core компоненты ),Android|Android SDK|SDK|Core|компоненты,android|android sdk|android sdk core компоненты|core|sdk|компоненты,Android|Android SDK|SDK|core|компоненты
+Jetpack Compose,,android sdk,jetpack compose,Jetpack|Jetpack Compose|Compose,compose|jetpack|jetpack compose,Compose|Jetpack|Jetpack Compose
+REST API / JSON,,jetpack compose,rest api / json,REST|REST API|API|JSON,api|json|rest|rest api|rest api json,API|JSON|JSON API|REST|REST API
+Git,,rest api|json,git,Git,git,Git
+MVVM/MVI/MVP,,git,mvvm / mvi / mvp,MVVM|MVI|MVP,mvi|mvp|mvvm|mvvm mvi mvp,MVI|MVP|MVVM
+Coroutines & Flow,,mvvm|mvi|mvp,coroutines & flow,Coroutines,coroutines|coroutines flow,Coroutines|Coroutines Flow
+Dependency Injection/Dagger2,,coroutines|flow,dependency injection / dagger2,Dependency|Dependency Injection|Dagger2,dagger2|dependency|dependency injection|dependency injection dagger2,Dagger2|Dependency injection|dependency
+Clean Architecture,,dependency injection|dagger2,clean architecture,Clean|Clean Architecture|Architecture,architecture|clean|clean architecture,Architecture|Clean|Clean Architecture
+Умение проектировать ER-модель (концептуальный и логический уровень),,er-model,умение проектировать er - модель ( концептуальный и логический уровень ),ER|ER-модель|-|модель,er|er-модель|модель|проектировать er модель концептуальный логический,ER|er-модель|консультации пользователей|модель
+Знания и практический опыт работы с интеграцией посредством Rest API,,rest api,rest api,Rest|Rest API|API,api|rest|rest api,API|REST|REST API
+Теоретический опыт работы с интеграциями посредством очередей Kafka/RabbitMQ/какая-либо другая,,kafka|rabbitmq,- либо|kafka / rabbitmq /,Kafka|RabbitMQ|-,kafka|kafka rabbitmq|rabbitmq|либо,Kafka|RabbitMQ|логи
+"Знание не менее 2х и практика владения (не менее 1) нотациями требований (UML,BPMN)",,uml|bpmn,знание|uml|bpmn,Знание|UML|BPMN,bpmn|uml,BPMN|UML
+Практический опыт работы с интеграциями через очереди сообщений Kafka/RabbitMQ,,kafka|rabbitmq,kafka / rabbitmq,очереди|очереди сообщений|Kafka|RabbitMQ,kafka|kafka rabbitmq|rabbitmq|очереди|очереди сообщений,Kafka|RabbitMQ|Очереди сообщений|очереди
+Понимание преимуществ и недостатков микросервисной архитектуры по сравнению с другими,,microservice architecture,микросервисной архитектуры|понимание,Понимание|архитектуры,архитектуры|микросервисной архитектуры,архитектуры|микросервисные архитектуры
+"Уверенная работа с Web elements, DOM, Xpath, CSS",,web elements|dom|xpath|css,css|xpath|dom|web elements,Web|elements|DOM|Xpath|CSS,css|dom|elements|web|web elements|xpath,CSS|DOM|Elements|Web|XPath
+Работа в Postman или аналоги,,postman,postman,Postman,postman,Postman
+"Работа с БД SQL: Postgresql, написание запросов",,sql|postgresql,sql : postgresql,SQL|Postgresql|написание|написание запросов,postgresql|sql|sql postgresql|написание|написание запросов,PostgreSQL|SQL|написание|написание запросов
+"Уверенная работа с REST, OpenApi",,rest|openapi,openapi|rest,REST|OpenApi,openapi|rest,OpenAPI|REST
+"Разработка на Java с проектированием автотестов, ООП, знание паттернов разработки",,java|ооп,java,Разработка|Java|знание,java,Java
+Опыт работы с RabbitMq,,rabbitmq,rabbitmq,RabbitMq,rabbitmq,RabbitMQ
+Работа с Git,,git,git,Git,git,Git
+Работа с ELK,,elk,elk,ELK,elk,ELK
+"Написание, обработка JSON, WEB elements",,json|web elements,json|web elements,Написание|JSON|WEB|elements,elements|json|web|web elements|написание,Elements|JSON|Web|написание
+Умеет вести разработку через agile методологии: Scrum/Kanban,,agile|scrum|kanban,: scrum / kanban,agile|методологии|Scrum|Kanban,agile|kanban|scrum|scrum kanban|методологии,Agile|Kanban|Scrum|Scrumban|методологии
+Опыт работы в QlikSense более 1 года,,qlik sense,qliksense,QlikSense,qliksense,qliksense
+Опыт проведения и организации нагрузочного тестирования,,нагрузочное тестирование,опыт проведения и организации нагрузочного тестирования,,проведения организации нагрузочного тестирования,Составление сценария исследования
+Сертификация QlikSense,,qlik sense,qliksense,QlikSense,qliksense,qliksense
+Опыт работы по разработке требований к BI-отчетности,,bi,bi - отчетности|опыт работы по разработке требований к,BI|-,bi|bi отчетности|по разработке требований,BI|Внедрение BI отчетов|постановки на разработку
+Базовое владение SQL,,sql,базовое владение sql,SQL,sql,SQL
+"Подтверждённый опыт разработки на популярных low-code платформах, таких как Mendix, OutSystems, Microsoft Power Apps, Appian или аналогичных.",,mendix|outsystems|microsoft power apps|appian,appian|microsoft power apps|mendix|outsystems,low-code|-|code|OutSystems|Microsoft|Power Apps|Apps|Appian,appian|apps|code|low-code|mendix|microsoft|microsoft power apps|outsystems|power apps,Microsoft|Power Apps|appian|apps|code|low-code|outsystems
+"Опыт интеграции low-code приложений с внешними системами через API, веб-сервисы, базы данных и другие источники данных.",,api|веб-сервисы|базы данных,api,low-code|-|code|API|сервисы|базы данных|данных|другие,api|code|low-code|базы данных|данных|другие|сервисы,API|code|low-code|Базы данных|данных|другие|сервисы
+Знания и практический опыт работы с интеграцией посредством Rest API,,rest api,rest api,Rest|Rest API|API,api|rest|rest api,API|REST|REST API
+Теоретический опыт работы с интеграциями посредством очередей Kafka/RabbitMQ/какая-либо другая,,kafka|rabbitmq,- либо|kafka / rabbitmq /,Kafka|RabbitMQ|-,kafka|kafka rabbitmq|rabbitmq|либо,Kafka|RabbitMQ|логи
+"Знание не менее 2х и практика владения (не менее 1) нотациями требований (UML,BPMN)",,uml|bpmn,знание|uml|bpmn,Знание|UML|BPMN,bpmn|uml,BPMN|UML
+Практический опыт работы с интеграциями через очереди сообщений Kafka/RabbitMQ,,kafka|rabbitmq,kafka / rabbitmq,очереди|очереди сообщений|Kafka|RabbitMQ,kafka|kafka rabbitmq|rabbitmq|очереди|очереди сообщений,Kafka|RabbitMQ|Очереди сообщений|очереди
+"Опыт работы с Java, PostgreSQL, K8S, Grafana, REST API",,java|postgresql|k8s|grafana|rest api,postgresql|k8s|rest api|java|grafana,Java|PostgreSQL|Grafana|REST|REST API|API,api|grafana|java|k8s|postgresql|rest|rest api,API|Grafana|Java|PostgreSQL|REST|REST API|k8
+"Опыт работы в распределенных командах, понимание принципов Agile",,agile,agile,понимание|Agile,agile,Agile
+Умение работать с Jira и Confluence,,jira|confluence,jira|confluence,Jira|Confluence,confluence|jira,Confluence|Jira
+Опыт работы с JS,,javascript,js,,js,JavaScript
+Опыт работы с React,,react,react,React,react,React
+Опыт работы с Next.js,,next.js,next. js,Next.js,next. js|next.js,Next.js
+Опыт реализации сложных анимаций нативно (js/css),,javascript|css3,##аций нативно,css,css|аций нативно,CSS|нотации
+"Опыт реализации сложных анимаций с помощью специальных библиотек (motion, Three.js)",,motion|three.js,"motion,|three. js",motion|Three.js,motion|three. js|three.js,Three.js|motion
+Опыт проектирования сложных ETL-процессов для построения витрин данных (Hadoop),,etl|hadoop,hadoop,Опыт проектирования|ETL|-|данных|Hadoop,etl|hadoop|данных|проектирования,ETL|Hadoop|Навыки проектирования|данных
+SQL (сложные запросы + PIVOT),,sql|pivot,sql|pivot,SQL|сложные запросы|PIVOT,pivot|sql|сложные запросы,Pivot|SQL|Сложные запросы
+Знание и опыт с Python,,python,знание и опыт с python,Знание|Python,python,Python
+Опыт применения на практике основных UML диаграмм,,uml,uml диаграмм,UML,uml|uml диаграмм,UML|UML-диаграммы
+Опыт с командной строкой в Linux,,linux,linux,Linux,linux,Linux
+"XML/JSON, UML, РСУБД",,xml|json|uml|рссубд,xml / json|uml,XML|XML/JSON|JSON|UML,json|uml|xml|xml json|xml/json,JSON|JSON/XML|UML|XML|XML/JSON
+"Базовое знание Spark, Hive, Airflow",,spark|hive|airflow,spark|airflow|hive,знание|Spark|Hive,airflow|hive|spark,AirFlow (dag)|Hive|Spark
